@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "Bring  - PROJECT",
+			"path": ".."
+		}
+	],
+
+	"extensions": {
+		"recommendations": [
+			"aaron-bond.better-comments",
+			"usernamehw.errorlens",
+			"p42ai.refactor",
+			"ms-vscode.live-server"
+		]
+	},
+
+	"settings": {
+		"better-comments.tags": [
+			{
+				"tag": "*",
+				"color": "#98C379"
+			},
+			{
+				"tag": "INFO",
+				"color": "#3498DB"
+			},
+			{
+				"tag": "WARN",
+				"color": "#FF8C00"
+			},
+			{
+				"tag": "FIX",
+				"color": "#FF8C00"
+			}
+		]
+	}
+}
